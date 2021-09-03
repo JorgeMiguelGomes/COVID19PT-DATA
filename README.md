@@ -9,6 +9,7 @@ Os ficheiros são atualizados quando saem novos relatórios com a incidência po
 # UTILIZAÇÃO
 
 Estes dados são utilizados para atualizar 
+
 Mapa: https://public.flourish.studio/visualisation/5563636/
 
 Tabela: https://public.flourish.studio/visualisation/5744183/
