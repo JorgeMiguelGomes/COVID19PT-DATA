@@ -19,5 +19,14 @@ Absolute cases are calculated by using population data from 2019 by INE/PORDATA
 
 ## BOOSTER DATA 
 
+## DOSES TOTAIS DIÁRIAS
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=474943055&amp;format=interactive" width="900" height="600"></iframe>
+<center><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=474943055&amp;format=interactive" width="900" height="600"></iframe></center>
+
+## DOSES POR GRUPO ETÁRIO 
+
+<center>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=2130977469&amp;format=interactive" width="900" height="600"></iframe>
+</center>
+
+
