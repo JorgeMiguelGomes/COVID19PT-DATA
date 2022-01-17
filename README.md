@@ -20,4 +20,4 @@ Absolute cases are calculated by using population data from 2019 by INE/PORDATA
 ## BOOSTER DATA 
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=474943055&amp;format=interactive" width="640"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=474943055&amp;format=interactive" width="900" height="600"></iframe>
