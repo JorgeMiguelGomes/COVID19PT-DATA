@@ -17,7 +17,7 @@ Absolute cases are calculated by using population data from 2019 by INE/PORDATA
 
 <div class="flourish-embed flourish-table" data-src="visualisation/5744183"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## BOOSTER DATA 
+# BOOSTER DATA 
 
 ## DOSES TOTAIS DIÁRIAS
 
@@ -25,8 +25,6 @@ Absolute cases are calculated by using population data from 2019 by INE/PORDATA
 
 ## DOSES POR GRUPO ETÁRIO 
 
-<center>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=2130977469&amp;format=interactive" width="900" height="600"></iframe>
-</center>
+<center><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAHicltl-np4eY00xBSWFxdmttZ-cUNyQUAajKpsqrNv431hql5Gbz06Fh7mnW-l4108wZeco0I8oP/pubchart?oid=2130977469&amp;format=interactive" width="900" height="600"></iframe></center>
 
 
