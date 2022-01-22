@@ -1,5 +1,9 @@
 # COVID19-PT 
 
+## DATASET UPDATED DAILY 
+
+<div><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~jmgvostpt/1.embed"></iframe></div>
+
 ## DATASETS UPDATED WEEKLY 
 
 [Per County 100K](https://github.com/JorgeMiguelGomes/COVID19PT_DADOSCONCELHO/blob/main/COVID19PT_CONCELHOS%20-%20INCID%C3%8ANCIA.csv)
